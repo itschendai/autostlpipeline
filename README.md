@@ -32,6 +32,6 @@ python autostlpipeline.py --search "gadgets" --pages 10 --tweak 1 --upload 1 --r
 ## Tweaking Function
 The Tweaking function is simplified version of github.com/ChristophSchranz/Tweaker-3, read this page for more detail of the tweaker algorithm.
 
-## Where are the objects
+## Download File Location
 
 All the stls of the objects are downloaded at the folder **stls**.
