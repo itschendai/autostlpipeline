@@ -2,7 +2,7 @@
 
 **Remember to put thingiverse API TOKEN** inside the file **api_credentials.ini**
 
-**Remember to put Google API Credential** as file **credential.json**
+**Remember to put Google API Credential** as file **credentials.json**
 
 **Remember to put google drive folder id** in the code if you want to use upload
 
