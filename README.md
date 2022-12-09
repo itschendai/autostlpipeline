@@ -1,14 +1,17 @@
 # Thingiverse Downloader + STL Orientation Tweaker + Google Drive Uploader Tool
 
 **Remember to put thingiverse API TOKEN** inside the file **api_credentials.ini**
+
 You can get thingiverse developer api at:
 https://www.thingiverse.com/developers
 
 **Remember to put Google API Credential** as file **credentials.json**
+
 You can create google drive api credentials at:
 https://console.cloud.google.com/apis
 
-**Remember to put google drive folder id** in the code if you want to use upload
+**Remember to put google drive folder id** in the code if you want to upload
+
 You can find the folder id right in its url, for example:
 https://drive.google.com/drive/u/0/folders/[drive folder id]
 
