@@ -1,4 +1,4 @@
-# Thingiver Downloader + STL Orientation Tweaker + Google Drive Uploader Tool
+# Thingiverse Downloader + STL Orientation Tweaker + Google Drive Uploader Tool
 
 **Remember to put thingiverse API TOKEN** inside the file **api_credentials.ini**
 You can get thingiverse developer api at:
