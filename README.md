@@ -43,4 +43,4 @@ The Tweaking function is simplified version of github.com/ChristophSchranz/Tweak
 
 ## Download File Location
 
-All the stls of the objects are downloaded at the folder **stls**.
+All the stls of the objects are downloaded in the folder **/stls**.
