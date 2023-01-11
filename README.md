@@ -4,6 +4,8 @@
 
 You can get thingiverse developer api at:
 https://www.thingiverse.com/developers
+You can follow the tutorial for more detailed instruction:
+https://womenin3dprinting.com/how-to-use-the-thingiverse-api-basic-read-access/
 
 **Remember to put Google API Credential** as file **credentials.json**
 
