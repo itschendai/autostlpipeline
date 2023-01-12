@@ -13,7 +13,7 @@ https://womenin3dprinting.com/how-to-use-the-thingiverse-api-basic-read-access/
 **Example:**
 ![image](https://user-images.githubusercontent.com/31602239/211939113-083029a3-0e49-4022-9861-5b4fb765c8af.png)
 
-![image](https://user-images.githubusercontent.com/31602239/211939301-9873a9b7-4e7f-425c-a91f-ad9070932da1.png)
+![image](https://user-images.githubusercontent.com/31602239/211943985-c6445430-ff49-43d2-801f-3853fff89780.png)
 
 
 ## Google Cloud API
